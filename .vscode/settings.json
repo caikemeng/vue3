@@ -1,0 +1,9 @@
+{
+    // 开启emmet触发补全（核心配置）
+    "emmet.triggerExpansionOnTab": true,
+    // 关联Vue文件，让emmet在.vue模板中生效
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    }
+}
